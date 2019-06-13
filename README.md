@@ -1,7 +1,7 @@
 ![Overload Logo](Images/logo.png)
 
 ## Context
-Overload is a graduation project. We were 3 ([Benjamin VIRANIN](https://github.com/BenjaminViranin), [Max BRUN](https://github.com/maxbrundev) and me) working on during 5 months.
+Overload is a graduation project. We were 3 ([Benjamin VIRANIN](https://github.com/BenjaminViranin), [Adrien GIVRY](https://github.com/adriengivry) and me) working on during 5 months.
 We had to create a game engine from scratch, using the fewest libraries possible.
 
 ![Editor](Images/Masthead.jpg)
@@ -57,9 +57,9 @@ Our final solution is divided into 12 modules:
 
 ## Team organization
 At the beginning of the project we decided to split the main tasks like this:
-- Rendering: [Max BRUN](https://github.com/maxbrundev)
+- Core and editor: [Adrien GIVRY](https://github.com/adriengivry)
 - Physics and audio: [Benjamin VIRANIN](https://github.com/BenjaminViranin)
-- Core and editor: Me
+- Rendering: Me
 
 But the more the project progressed, the more we moved. We all worked on every parts of the engine, and it was a good way to expand our areas of expertise. Finally, although I focused more on the core and the editor, I helped my teammates on their modules.
 
