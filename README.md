@@ -70,7 +70,7 @@ We end-up this project with much more features than we expected. We used an iter
 We made a game with our engine to demonstrate its capabilities. Our game has a complete game loop (Menu, story, cinematic, game, credits).
 
 ## Source code
-Sources are private, but you can contact me by email to see them: adrien@givry.pro
+Sources are private, but you can contact me by email to see them: maxbrundev@gmail.com
 
 ## More information
 If you are interested in Overload, you can download our engine and the demo game we made with it on our website:<br>
