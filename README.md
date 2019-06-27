@@ -19,7 +19,8 @@ Our goals for this project were:
 ## Personnal goals
 My personnal goals for this project were:
 - Improving my 3D rendering skills
-- Leading a team
+- Improving my Programming Architecture skills
+- Improving my usage of modern CPP
 
 ## Software used
 - Visual Studio 2017 and 2019 to code
@@ -61,7 +62,7 @@ At the beginning of the project we decided to split the main tasks like this:
 - Physics and audio: [Benjamin VIRANIN](https://github.com/BenjaminViranin)
 - Rendering: Me
 
-But the more the project progressed, the more we moved. We all worked on every parts of the engine, and it was a good way to expand our areas of expertise. Finally, although I focused more on the core and the editor, I helped my teammates on their modules.
+But the more the project progressed, the more we moved. We all worked on every parts of the engine, and it was a good way to expand our areas of expertise.
 
 ## Features
 We end-up this project with much more features than we expected. We used an iterative strategy, meaning that we developped our modules as simple as possible in order to quickly have results. We then iterated over and over to add new features.
