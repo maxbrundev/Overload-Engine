@@ -60,7 +60,7 @@ Our final solution is divided into 12 modules:
 At the beginning of the project we decided to split the main tasks like this:
 - Core and editor: [Adrien GIVRY](https://github.com/adriengivry)
 - Physics and audio: [Benjamin VIRANIN](https://github.com/BenjaminViranin)
-- Rendering: Me
+- Rendering and Serialization: Me
 
 But the more the project progressed, the more we moved. We all worked on every parts of the engine, and it was a good way to expand our areas of expertise.
 
